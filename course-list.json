@@ -1,3 +1,4 @@
+[
 {
     "id": 1,
     "course": [
@@ -6,4 +7,14 @@
             "link": "https://github.com/warathepj/install-vscode-windows.git"
         }
     ]
+},
+{
+    "id": 2,
+    "course": [
+        {
+            "name": "get-gemini-api-key",
+            "link": "https://github.com/warathepj/get-gemini-api-key.git"
+        }
+    ]
 }
+]
