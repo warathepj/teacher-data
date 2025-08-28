@@ -16,5 +16,23 @@
             "link": "https://github.com/warathepj/get-gemini-api-key.git"
         }
     ]
+},
+{
+    "id": 3,
+    "course": [
+        {
+            "name": "install-git-windows",
+            "link": "https://github.com/warathepj/install-git-windows.git"
+        }
+    ]
+},
+{
+    "id": 4,
+    "course": [
+        {
+            "name": "apply-github",
+            "link": "https://github.com/warathepj/apply-github.git"
+        }
+    ]
 }
 ]
