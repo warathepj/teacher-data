@@ -23,6 +23,10 @@
         {
             "name": "install-git-windows",
             "link": "https://github.com/warathepj/install-git-windows.git"
+        },
+        {
+            "name": "apply-github",
+            "link": "https://github.com/warathepj/apply-github.git"
         }
     ]
 },
